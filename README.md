@@ -9,3 +9,12 @@ MOTIVATION : Previously a person has to go explicit for the psychometric test an
 DOMAIN USED : Machine Learning and Natural Language Processing(NLP)
 
 LANGUAGE USED: Python 3.7.0
+
+PROPOSED APPROACH :We will accomplish this task by following methods:
+                   i)   Input data preprocessing
+                   ii)  Filtering
+                   iii) Feature extraction
+                   iv)  Classification
+                   v)   Train the dataset
+                   v)   Prediction based on different models
+                   vi)  Conclusion based on Cross Validation Accuracy Results.
